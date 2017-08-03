@@ -7,18 +7,18 @@ Reference: http://dcgi.fel.cvut.cz/home/sykorad/facestyle
 
 1. Segmentation guide
 
-- [Automatic portrait segmentation]()
-- [Facial landmarks detection]()
-- [Closed-form matting]()
-- [Diffusion curves]()
+- [Automatic portrait segmentation](https://github.com/rozentill/FaceStyle/blob/master/paper/portrait_eg16.pdf)
+- [Facial landmarks detection](https://github.com/rozentill/FaceStyle/blob/master/paper/onemillisecondfacealignment.pdf)
+- [Closed-form matting](https://github.com/rozentill/FaceStyle/blob/master/paper/Matting-Levin-Lischinski-Weiss-PAMI.pdf)
+- [Diffusion curves](https://github.com/rozentill/FaceStyle/blob/master/paper/diffusioncurves.pdf)
 
 2. Positional guide
 
-- [Moving least squares deformation]()
+- [Moving least squares deformation](https://github.com/rozentill/FaceStyle/blob/master/paper/mls.pdf)
 
 3. Appearance guide
 
-- [Head portrait style transfer]()
+- [Head portrait style transfer](https://github.com/rozentill/FaceStyle/blob/master/paper/2014_portrait.pdf)
 
 4. Temporal guide
 
@@ -27,4 +27,4 @@ Reference: http://dcgi.fel.cvut.cz/home/sykorad/facestyle
 
 6. Synthesis
 
-- [StyLit]()
+- [StyLit](https://github.com/rozentill/FaceStyle/blob/master/paper/Fiser16-SIG.pdf)
